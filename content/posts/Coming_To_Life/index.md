@@ -12,14 +12,16 @@ weight: 65
 
  I decided to rewire the original  [SALCI](https://github.com/dunhampa/SALCI)  arduino hardware. Containing  SALCI wakes up...kind of like Frankenstein...
 
+
 <p style="text-align:left;">
 
-<img src="it_alive.gif" alt="Frankenstein Awakes Animation" style="width:600px"></a><p>
+<img src="it_alive.gif" alt="Frankenstein Awakes Animation" style="width:600px"></img></p>
 
 
 
 like Frankenstein there are *still some kinks to workout* 
-
+    <div class="container"> 
 <video controls>
   <source src="IMG_0605.mp4" type="video/mp4">
 </video>
+</div>
