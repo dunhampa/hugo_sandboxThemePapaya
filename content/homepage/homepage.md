@@ -1,7 +1,7 @@
 ---
 title: "Pete Homepage"
 date: 2020-01-26T23:11:13Z
-draft: true
+draft: false
 tags: ["foo", "bar"]
 categories: ["holler1", "holler2"]
 summary: "Holler holler hollering"
