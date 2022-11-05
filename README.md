@@ -1,3 +1,14 @@
+# from scratch clone and run
+
+```
+git clone --recurse-submodules git@github.com:dunhampa/hugo_sandboxThemePapaya.git hugo_destTest  
+```
+Believe this would have worked for already cloned:
+
+```
+git submodule update --init --recursive
+```
+
 # sandbox_hugoThemePapaya
 
 Clone and run
