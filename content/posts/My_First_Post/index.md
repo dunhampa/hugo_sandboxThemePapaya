@@ -15,6 +15,8 @@ velit aliquet sagittis id consectetur. Vulputate dignissim suspendisse in est
 ante in nibh mauris cursus. Morbi quis commodo odio aenean. Mollis nunc sed id 
 semper risus in hendrerit gravida rutrum.
 
+  {{<imageToClick imagePath = "DALL·E 2022-11-14 21.23.51 - Fullstack problem solver agilist collaborator as a battle scene oil painting. Has computers and technology floating around.png" Capition = "DALL·E 2022-11-14 21.23.51 - Fullstack problem solver agilist collaborator as a battle scene oil painting. Has computers and technology floating around"  width = "75%" >}}
+
 
 Ac ut `consequat` semper viverra nam. Hac habitasse platea dictumst vestibulum 
 rhoncus. Amet porttitor eget dolor morbi non. Justo eget magna fermentum 
